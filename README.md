@@ -1,4 +1,4 @@
-vim-config
+my-configs
 ==========
 
-my vim config
+my config files.
